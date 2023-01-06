@@ -10,6 +10,7 @@ Initial Security()
  //Sample Code
 }
 
-
-
+Feature2 Securit Code()
+{
+ //Feature2 Sample Code	
 }
